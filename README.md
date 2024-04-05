@@ -15,7 +15,7 @@ Screenshots
 
 <h2>Installation</h2>
 1. Clone the repository:
-   <a href="git clone https://github.com/Ritik-Katiyar/Movie-website.git">
+   href="git clone https://github.com/Ritik-Katiyar/Movie-website.git"
 
 2. Navigate to the project directory:
    cd movie-website
